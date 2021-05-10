@@ -14,12 +14,7 @@ To generate a config file, you can use the [generator](https://config.xmrig.com/
 
 ### Optional
 **POOL_PW**=Rancher\
-**COIN**=ravencoin\
-**MAX_CPU**=100\
-**USE_SCHEDULER**=false\
-**START_TIME**=2100\
-**STOP_TIME**=0600\
-**DAYS**=Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+**COIN**=ravencoin
 
 ## Run
 
