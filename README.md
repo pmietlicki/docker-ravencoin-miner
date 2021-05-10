@@ -90,3 +90,4 @@ To restart the miner:
 - RVN: `RG8Foh71fzgbrczHbUJSdWna6u4e7sgsr6`
 - BTC: `bc1q8x59fwt7v9w3haa8dc5jtaurs3azjq2ut5nekp`
 - NIM: `NQ51BJ7CGJA4Y35XNL7KL9VVVYQNA0K76FMB`
+- DERO: `dERooMhHriXTfpnVtJTaAGJKGsWfZ4o7U2gRrBKRsQZJEXrfG3Ws8TpbeLckBDiG6mSjt1Fi33ydHAPbfDrDHphF34sep8P16W`
