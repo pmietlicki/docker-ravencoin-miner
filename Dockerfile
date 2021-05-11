@@ -1,5 +1,5 @@
 
-FROM  pmietlicki/xmrig
+FROM  pmietlicki/xmrig:ubuntu
 
 # Configuration variables.
 ENV POOL_URL    		rvn-eu1.nanopool.org:12222
