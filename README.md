@@ -7,7 +7,7 @@ Image of latest [xmrig](https://github.com/xmrig/xmrig) version, a very high per
 ## Configuration variables with default values
 
 ### Mandatory
-**You can use config json file by putting it inside /home/ravencoin/config.json**\
+**You can use config json file by putting it inside /home/ravencoin/config/config.json**\
 To generate a config file, you can use the [generator](https://config.xmrig.com/)\
 **POOL_URL**=rvn-eu1.nanopool.org:12222\
 **POOL_USER**=RG8Foh71fzgbrczHbUJSdWna6u4e7sgsr6
